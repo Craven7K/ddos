@@ -23,3 +23,4 @@ ddos saldırırsı eğitim amaçlı yazılımain.pym.
 target ip yerini ve portu degiştirebilirsiniz.
 pip install -r requirements.txt 
 python main.py python3 main.py
+git clone https://github.com/Craven7K/ddos.git 
